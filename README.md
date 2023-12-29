@@ -27,12 +27,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png" alt="Unreal Engine"></code>
 
 ## connect with me
-<code><img height="20" src="![image](https://github.com/timwm/timwm/assets/61872844/11ef2f12-f730-4b74-bb7b-1e1d0e43a4cf)
-" alt=""><a href="" alt="">&nbsp; imagw</a></code>
-
-<code><a href="https://twitter.com/timwm_" alt="twitter"><img height="20" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="@timwm_ on X formerly Twitter">@timwm_</a></code>
-<br/>
-<code><a href="https://linkedin.com/in/timwm" alt="timwm on LinkedIn"><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="">timwm</a></code>
+<code><a href="https://twitter.com/timwm_" alt="twitter"><img height="20" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="@timwm_ on X formerly Twitter"></a></code>
+&nbsp;
+<code><a href="https://linkedin.com/in/timwm" alt="timwm on LinkedIn"><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a></code>
 
 
 <!--
