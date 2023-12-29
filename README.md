@@ -38,9 +38,8 @@
 <code><img height="20" src="![image](https://github.com/timwm/timwm/assets/61872844/11ef2f12-f730-4b74-bb7b-1e1d0e43a4cf)
 " alt=""><a href="" alt="">&nbsp; imagw</a></code>
 
-<code><a href="twitter.com/timwm_" alt="twitter"><img height="20" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"> @timwm_</a></code>
-<code><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""><a href="" alt="">&nbsp; timwm</a></code>
-<code><img height="20" src="" alt=""><a href="" alt="">&nbsp;</a></code>
+<code><a href="https://twitter.com/timwm_" alt="twitter"><img height="20" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"> @timwm_</a></code>
+<code><a href="https://linkedin.com/in/timwm" alt="LinkedIn"><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""> timwm</a></code>
 
 <code><img height="20" src="" alt=""></code>
 <!--
