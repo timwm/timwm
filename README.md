@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there 👋 <img src="https://media.giphy.com/media/ckJF143W1gBS8Hk833/giphy.gif" width="32"/>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/ckJF143W1gBS8Hk833/giphy.gif" width="100"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=timwm&show_icons=true&line_height=32&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&bg_color=50,c71585,48d1cc">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timwm&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=timwm">
 </div>
 
 ## skills
