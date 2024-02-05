@@ -32,7 +32,7 @@
 
 </td>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timwm&theme=radical&bg_color=30,0b8793,360033&text_bold=true" alt="most used languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timwm&theme=radical&bg_color=30,C33764,1D2671&text_bold=true&title_color=92EFFD" alt="most used languages">
 </td></tr></table>
 
 </br></br>
