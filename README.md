@@ -1,11 +1,6 @@
 ### Hi there 👋 <img src="https://media.giphy.com/media/ckJF143W1gBS8Hk833/giphy.gif" width="32"/>
-<div id="header" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=timwm&show_icons=true&line_height=32&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&bg_color=100,c33764,4ecdc4,1D2671" alt="c71585,48d1cc">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timwm&theme=radical">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=timwm">
-</div>
-
 ## skills
+<table><tr><td>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"></code>
@@ -27,12 +22,22 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png" alt="Windows"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png" alt="Unreal Engine"></code>
-
+</br><br>
+  
 ## connect with me
 <code><a href="https://twitter.com/timwm_" alt="twitter"><img height="20" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="@timwm_ on X formerly Twitter"></a></code>
 &nbsp;
 <code><a href="https://linkedin.com/in/timwm" alt="timwm on LinkedIn"><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a></code>
 
+</td>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timwm&theme=radical&bg_color=30,360033,0b8793">
+</td></tr></table>
+
+</br></br>
+<div id="header" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=timwm&show_icons=true&line_height=32&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&bg_color=80,4ecdc4,1d2671" alt="c71585,48d1cc">
+</div>
 
 <!--
 <code><img height="20" src="" alt=""></code>
