@@ -1,4 +1,5 @@
-### Hi there 👋 <img src="https://media.giphy.com/media/ckJF143W1gBS8Hk833/giphy.gif" width="32"/>
+### Hi there 👋
+<!--img src="https://media.giphy.com/media/ckJF143W1gBS8Hk833/giphy.gif" width="32"/-->
 ## skills
 <table><tr><td>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"></code>
@@ -31,12 +32,12 @@
 
 </td>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timwm&theme=radical&bg_color=30,360033,0b8793">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timwm&theme=radical&bg_color=30,0b8793,360033&text_bold=true" alt="most used languages">
 </td></tr></table>
 
 </br></br>
 <div id="header" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=timwm&show_icons=true&line_height=32&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&bg_color=80,4ecdc4,1d2671" alt="c71585,48d1cc">
+  <img src="https://github-readme-stats.vercel.app/api?username=timwm&show_icons=true&line_height=32&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&bg_color=80,0f0c29,302b63,24243e&border_radius=10&custom_title=My%20Github%20Stats" alt="my activity">
 </div>
 
 <!--
