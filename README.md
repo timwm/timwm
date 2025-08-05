@@ -15,19 +15,21 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 <img src="https://github.com/timwm/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
 <img src="https://github.com/timwm/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
 </a>
+
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=timwm&theme=tokyonight)](https://git.io/streak-stats) -->
+
 <br /><br />
 
 ---
 
 <!-- ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=timwm&theme=transparent) -->
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=timwm&theme=cyber-streakglow)](https://git.io/streak-stats) -->
-
 <!--img src="https://media.giphy.com/media/ckJF143W1gBS8Hk833/giphy.gif" width="32"/-->
 
 ## ✨ Skills - (lower bound) ✨
 
-<table>
-<tr><td>
+<br />
+<div >
 <img height="40" src="https://github.com/github/explore/blob/main/topics/google-cloud/google-cloud.png?raw=true" alt="Google Cloud Platform">
 <img height="40" src="https://avatars.githubusercontent.com/ml/2248?s=400&v=4" alt="Jira Software">
 <img height="40" src="https://repository-images.githubusercontent.com/33884891/3e449402-c463-46f9-aa6c-26942a9e2bdc" alt="Apache Airflow">
@@ -77,22 +79,25 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 <img height="40" src="" alt="">
 <img height="40" src="" alt="">
 <img height="40" src="" alt="">
+<div />
 
-</br><br>
-## connect with me
-<code><a href="https://x.com/timw_mesulam" alt="twitter"><img height="20" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="@timwm_ on X formerly Twitter"></a></code>
+<br /><br />
+<img src="https://github-readme-stats.vercel.app/api?username=timwm&show_icons=true&line_height=32&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&bg_color=80,0f0c29,302b63,24243e&border_radius=10&custom_title=My%20Github%20Stats&hide_border=true" alt="my activity">
+<!-- img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timwm&theme=radical&bg_color=30,C33764,1D2671&text_bold=true&title_color=92EFFD&hide_border=true" alt="most used languages" -->
+
+<br />
+
+## Connect with me
+<code><a href="https://x.com/timw_mesulam" alt="twitter"><img height="20" src="https://img.shields.io/badge/-X/Twitter-000?logo=x&logoColor=white" alt="@timwm_ on X formerly Twitter"></a></code>
 &nbsp;
 <code><a href="https://linkedin.com/in/timwm" alt="timwm on LinkedIn"><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a></code>
 
 #### Or consider buying me a coffee
-<a align="center" href="https://buymeacoffee.com/timwm" alt="buymeacoffee"><img height="140" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="bymeacoffee"></a>
+<a align="center" href="https://buymeacoffee.com/timwm" alt="buymeacoffee"><img height="140" src="https://img.shields.io/badge/buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="bymeacoffee"></a>
+
+<!-- ![Followers](https://img.shields.io/github/followers/timwm) -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=timwm)
-
-</td><td width="480px">
-  <img src="https://github-readme-stats.vercel.app/api?username=timwm&show_icons=true&line_height=32&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&bg_color=80,0f0c29,302b63,24243e&border_radius=10&custom_title=My%20Github%20Stats&hide_border=true" alt="my activity">
-  <!-- img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timwm&theme=radical&bg_color=30,C33764,1D2671&text_bold=true&title_color=92EFFD&hide_border=true" alt="most used languages" -->
-</td></tr></table>
 
 </br></br>
 <!--div id="header" align="center">
