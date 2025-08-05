@@ -66,9 +66,9 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 <img height="40" src="https://github.com/github/explore/blob/main/topics/flutter/flutter.png?raw=true" alt="Flutter">
 <img height="40" src="https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png" alt="Kubernetes">
 <img height="40" src="https://raw.githubusercontent.com/apache/kafka/trunk/docs/images/kafka-logo-readme-light.svg" "Apache Kafka">
-<img height="40" src="" alt="">
-<img height="40" src="" alt="">
-<img height="40" src="" alt="">
+<img height="40" src="https://avatars.githubusercontent.com/u/25158?s=200&v=4" alt="PHP">
+<img height="40" src="https://github.com/mui.png?size=40" alt="MUI">
+<img height="40" src="https://github.com/github/explore/blob/main/topics/bash/bash.png?raw=true&size=40" alt="BASH">
 <img height="40" src="" alt="">
 <img height="40" src="" alt="">
 <img height="40" src="" alt="">
